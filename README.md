@@ -18,7 +18,14 @@ Saya adalah seorang Pelajar SMK Generasi Madani jurusan PPLG / RPL<br>yang sedan
 ![](https://github-readme-stats.shion.dev/api?username=arxeinshopos&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=arxeinshopos&theme=github_dark&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+# Playing Game
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arxeinshopos/arxeinshopos/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arxeinshopos/arxeinshopos/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arxeinshopos/arxeinshopos/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
