@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-Saya adalah seorang Pelajar SMK Generasi Madani jurusan PPLG / RPL<br>yang sedang mempelajari WebDeveloper, Bahasa Pemrograman, dan CyberSecurity
+<h3>Saya adalah seorang Pelajar SMK Generasi Madani jurusan PPLG / RPL<br>yang sedang mempelajari WebDeveloper, Bahasa Pemrograman, dan CyberSecurity</h3>
 
 
 ## 🌐 Socials:
