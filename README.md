@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,arduino,py,kali,figma&theme=light)](https://skillicons.dev)
 
 # 💻 Tools
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,sublime,kali,figma,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime,kali,figma,mysql&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arxeinshopos&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=arxeinshopos&theme=github_dark&hide_border=false)<br/>
