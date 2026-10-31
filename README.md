@@ -3,7 +3,6 @@
 # 💫 About Me:
 <h3>Saya adalah seorang Pelajar SMK Generasi Madani jurusan PPLG / RPL<br>yang sedang mempelajari WebDeveloper, Bahasa Pemrograman, dan CyberSecurity</h3>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arxein.j?rpxt=MWQ3NXp6cmw4bXZhcw==) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/ArxeinJ/s/n8LEeFXvTh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/arxeinS) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arxeinshopos@gmail.com)
 
