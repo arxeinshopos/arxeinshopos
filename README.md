@@ -1,7 +1,5 @@
 ![Bimajoank](img/github-header-banner.png)
 
-
-
 # 💫 About Me:
 <h3>Saya adalah seorang Pelajar SMK Generasi Madani jurusan PPLG / RPL<br>yang sedang mempelajari WebDeveloper, Bahasa Pemrograman, dan CyberSecurity</h3>
 
@@ -13,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,arduino,py,kali,figma&theme=light)](https://skillicons.dev)
 ---
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime,kali,figma,mysql&theme=light)](https://skillicons.dev)
----
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arxeinshopos&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=arxeinshopos&theme=github_dark&hide_border=false)<br/>
